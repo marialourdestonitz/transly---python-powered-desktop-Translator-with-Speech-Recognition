@@ -23,8 +23,5 @@ Googletrans: For text translation using Google Translate.
 
 SpeechRecognition: For converting speech to text.
 
-Qt Designer: For designing the user interface (optional).
+Qt Designer: For designing the user interface.
 
-**Installation**
-1.Clone Repository
-git clone https://github.com/marialourdestonitz/transly---python-powered-desktop-Translator-with-Speech-Recognition.git
